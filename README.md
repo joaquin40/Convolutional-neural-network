@@ -8,6 +8,8 @@ The first model  used for classifying the images is the CNN model. The second wa
 ### Results
 
 
+#### Convolutional Neural Network
+
 The figure below show the training and validation accuracy and loss function for CNN model. The CNN model was used on the test set of 10,000 images. The overall accuracy is about 0.453 with a 95% CI between (0.4428, 0.4624) in classifying the 100 classes (unique images). 
 
 ![](./images/val_train.png)
@@ -16,6 +18,7 @@ The table below shows the prediction and reference for the first 9 classes.
 
 ![](./images/cm.png)
 
+#### Convolutional Neural Network Data Augmentation
 
 For the CNN data augmentation model the overall accuracy is about 0.475 with a 95% CI between 0.4654 and  0.485 in classifying the 100 classes . 
 

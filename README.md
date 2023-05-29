@@ -20,7 +20,7 @@ The table below shows the prediction and reference for the first 9 classes.
 
 #### Convolutional Neural Network Data Augmentation
 
-For the CNN data augmentation model the overall accuracy is about 0.475 with a 95% CI between 0.4654 and  0.485 in classifying the 100 classes . 
+For the CNN data augmentation model, the overall accuracy is about 0.475 with a 95% CI between 0.4654 and  0.485 in classifying the 100 classes . 
 
 
 The figure below show the training and validation accuracy and loss function and the prediction and reference for the first 9 classes CNN model with data augmentation.
@@ -32,5 +32,5 @@ The figure below show the training and validation accuracy and loss function and
 
 ## Conclusion 
 
-CNN model with data augmentation accuracy improve to classify the 100 unique classes. The 95% CI of accuracy is between 0.4654 and  0.485 thus there is room for improvement in the Neural Network to improve the classification model. 
+CNN model with data augmentation accuracy improve to classify the 100 unique classes. The 95% CI of accuracy is between 0.4654 and  0.485. There is room for improvement in the Neural Network to improve the classification model. 
 
